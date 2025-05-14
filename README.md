@@ -53,3 +53,5 @@
 - Anglès: Nivell bàsic  
 
 ---
+
+## 📎 Altres
