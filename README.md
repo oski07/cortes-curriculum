@@ -24,3 +24,11 @@
 ---
 
 ## 💼 Experiència Laboral
+
+
+### 🍽️ Cambrer/a – Restaurant El Celler  
+**Període:** Juny 2024 - Agost 2024   
+**Tasques realitzades:**  
+- Atenció al client i servei de taula.  
+- Gestió de comandes i cobrament.  
+- Neteja i organització de l'espai.
