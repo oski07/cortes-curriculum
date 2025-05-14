@@ -55,3 +55,6 @@
 ---
 
 ## 📎 Altres
+
+- Carnet de conduir: No  
+- Disponibilitat immediata  
