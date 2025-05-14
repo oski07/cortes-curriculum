@@ -47,3 +47,9 @@
 ---
 
 ## 🗣️ Llengües
+
+- Català: Nadiu  
+- Castellà: Nadiu  
+- Anglès: Nivell bàsic  
+
+---
