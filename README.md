@@ -10,3 +10,13 @@
 ---
 
 ## 🎓 Formació Acadèmica
+
+### 🎓 Grau Mitjà en Sistemes Microinformàtics i Xarxes  
+**Centre:** Ginebró  
+**Any d'inici - Any de finalització:**  2023 - 2025
+- Coneixements en instal·lació i manteniment de sistemes informàtics.  
+- Xarxes, seguretat i sistemes operatius.
+
+### 🏫 Educació Secundària Obligatòria (ESO)  
+**Centre:** Institut Vilanova Del Valles  
+**Any de graduació:** 2023  
