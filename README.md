@@ -32,3 +32,8 @@
 - Atenció al client i servei de taula.  
 - Gestió de comandes i cobrament.  
 - Neteja i organització de l'espai.
+
+
+---
+
+## 💻 Competències
