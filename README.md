@@ -20,3 +20,7 @@
 ### 🏫 Educació Secundària Obligatòria (ESO)  
 **Centre:** Institut Vilanova Del Valles  
 **Any de graduació:** 2023  
+
+---
+
+## 💼 Experiència Laboral
