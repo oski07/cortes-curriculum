@@ -37,3 +37,9 @@
 ---
 
 ## 💻 Competències
+
+
+- Instal·lació i configuració de maquinari i programari.  
+- Coneixements bàsics en xarxes i seguretat informàtica.  
+- Tracte amable i professional amb el públic.  
+- Capacitat de treball en equip i adaptació ràpida.
