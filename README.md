@@ -1,1 +1,3 @@
 # Currículum Vitae
+
+## 🧑 Informació Personal
